@@ -1,2 +1,2 @@
-#open the file as
+#run the file as
 python driver.py directory=snapshots
